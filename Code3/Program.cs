@@ -10,8 +10,8 @@ namespace Code3
     {
         static void Main(string[] args)
         {
-            /* Evennos e = new Evennos();
-             e.Even();*/
+             Evennos e = new Evennos();
+             e.Even();
             Primenos p = new Primenos();
             p.Prime();
             Console.ReadKey();
